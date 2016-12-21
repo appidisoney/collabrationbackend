@@ -1,5 +1,5 @@
 +# Collab-Backend NIIT Project 2
-+Collaboration project consisting of basic funtionality like
++ Collaboration project consisting of basic funtionality like
 + - New user registrations
 + - Blogs
 + - Blog likes
