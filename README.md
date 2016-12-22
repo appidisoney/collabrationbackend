@@ -6,7 +6,7 @@ New user registrations
 Blogs
 Blog likes
 Forums
-Forum comments
+Forum Comments
 Group Chat
 jobs(create and view)
 User profiles with multipart image
