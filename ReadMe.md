@@ -6,6 +6,7 @@ Collaboration project consisting of basic funtionality like
  - Forums
  - Forum comments
  - Group Chat
+ -job (create and view)
  - User profiles with multipart image 
  - Friend Request (accept and reject)
 
